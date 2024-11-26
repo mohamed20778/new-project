@@ -2,11 +2,11 @@ com.example.flutter_application_1.app-core-1.6.0-0 C:\Users\zezop\.gradle\caches
 com.example.flutter_application_1.app-jetified-window-1.0.0-beta04-1 C:\Users\zezop\.gradle\caches\transforms-3\3fc6841a625c2f6f798513da4342f64b\transformed\jetified-window-1.0.0-beta04\res
 com.example.flutter_application_1.app-jetified-window-java-1.0.0-beta04-2 C:\Users\zezop\.gradle\caches\transforms-3\5b1943f6022f031876b1bcc4cd6f58e6\transformed\jetified-window-java-1.0.0-beta04\res
 com.example.flutter_application_1.app-jetified-annotation-experimental-1.1.0-3 C:\Users\zezop\.gradle\caches\transforms-3\f3b777a6e3202e8f617aa95a18bb10d0\transformed\jetified-annotation-experimental-1.1.0\res
-com.example.flutter_application_1.app-debug-4 C:\Users\zezop\Downloads\git_hub\new-proj\android\app\src\debug\res
-com.example.flutter_application_1.app-main-5 C:\Users\zezop\Downloads\git_hub\new-proj\android\app\src\main\res
-com.example.flutter_application_1.app-pngs-6 C:\Users\zezop\Downloads\git_hub\new-proj\build\app\generated\res\pngs\debug
-com.example.flutter_application_1.app-resValues-7 C:\Users\zezop\Downloads\git_hub\new-proj\build\app\generated\res\resValues\debug
-com.example.flutter_application_1.app-rs-8 C:\Users\zezop\Downloads\git_hub\new-proj\build\app\generated\res\rs\debug
-com.example.flutter_application_1.app-mergeDebugResources-9 C:\Users\zezop\Downloads\git_hub\new-proj\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.example.flutter_application_1.app-mergeDebugResources-10 C:\Users\zezop\Downloads\git_hub\new-proj\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.example.flutter_application_1.app-merged_res-11 C:\Users\zezop\Downloads\git_hub\new-proj\build\app\intermediates\merged_res\debug
+com.example.flutter_application_1.app-debug-4 C:\Users\zezop\Downloads\new proj\new-project\android\app\src\debug\res
+com.example.flutter_application_1.app-main-5 C:\Users\zezop\Downloads\new proj\new-project\android\app\src\main\res
+com.example.flutter_application_1.app-pngs-6 C:\Users\zezop\Downloads\new proj\new-project\build\app\generated\res\pngs\debug
+com.example.flutter_application_1.app-resValues-7 C:\Users\zezop\Downloads\new proj\new-project\build\app\generated\res\resValues\debug
+com.example.flutter_application_1.app-rs-8 C:\Users\zezop\Downloads\new proj\new-project\build\app\generated\res\rs\debug
+com.example.flutter_application_1.app-mergeDebugResources-9 C:\Users\zezop\Downloads\new proj\new-project\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_application_1.app-mergeDebugResources-10 C:\Users\zezop\Downloads\new proj\new-project\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_application_1.app-merged_res-11 C:\Users\zezop\Downloads\new proj\new-project\build\app\intermediates\merged_res\debug
